@@ -1,6 +1,6 @@
 # fmarket
 
-A new Flutter project.
+flutter shopping application
 
 ## Getting Started
 
